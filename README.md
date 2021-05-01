@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github.com/fabianwilliams/fabianwilliams/blob/main/fabstwitterbanner1500x500.png" alt="banner with fabian williams speaking at a Microsoft Conference in Vegas">
 
 * 🦒 I work as an Senior Program Manager on the Microsoft Graph Team at Microsoft 
 * 💬 Ask me about Microsoft Graph in general but my primary focus area at Microsoft is on Microsoft Teams and Microsoft Search
